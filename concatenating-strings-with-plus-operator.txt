@@ -24,3 +24,5 @@ Você deve atribuir o resultado à variável myStr. */
 //const myStr = ""; // Altere esta linha
 
 const myStr = "This is the start. "+"This is the end."; // código alerado da atividade
+
+console.log(myStr);/* isso imprimirá na tela o valor da variável*/
