@@ -1,0 +1,41 @@
+/* Escapar sequências em strings
+Aspas não são os únicos caracteres que podem ser escapados dentro de uma string. As sequências de escape permitem que você use caracteres que você não poderia usar em uma string em outras situações.
+
+Código	Saída
+
+\'	aspas simples
+\"	aspas duplas
+\\	barra invertida
+\n	nova linha
+\t	tab
+\r	retorno de carro
+\b	retroceder
+\f	quebra de 
+
+Note que a própria barra invertida deve ser escapada para ser exibida como uma barra invertida.
+
+Atribua as três linhas de texto a seguir em uma única variável myStr usando sequências de escapamento.
+
+FirstLine
+    \SecondLine
+ThirdLine
+Você precisará usar sequências de escapamento para inserir corretamente os caracteres especiais. Você também precisará seguir os espaçamentos assim como acima, sem espaços entre sequências de escapamento ou palavras.
+
+Observação: a identação para SecondLine é alcançada com o caractere de espaçamento tab, e não com espaços.
+
+
+myStr não deve conter espaços
+myStr deve conter as strings FirstLine, SecondLine e ThirdLine (lembre-se da sensibilidade de maiúsculas e minúsculas 'case sensitivity')
+FirstLine deve ser seguido pelo caractere de nova linha \n
+myStr deve conter o caractere de tabulação \t, que vem após um caractere de nova linha
+SecondLine deve ser precedida pelo caractere de barra invertida \
+Deve ter um caractere de nova linha entre SecondLine e ThirdLine
+myStr deve conter apenas caracteres mostrados nas instruções */
+
+
+//const myStr = ""; // Altere esta linha
+
+/* Realização da atividade - alterando linha */
+
+const myStr = "FirstLine\n\t\\SecondLine\nThirdLine";
+console.log(myStr);/* isso imprimirá na tela o valor da variável*/
