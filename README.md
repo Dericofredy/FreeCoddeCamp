@@ -61,6 +61,5 @@ Este repositório documenta meu progresso nos estudos em JavaScript na plataform
       <li value="modificar-dados-array-indices">Modificar dados de array com índices</li>
       <li value="acessar-arrays-multidimensionais">Acessar arrays multidimensionais com índices</li>
       <li value="manipular-arrays-metodo-push">Manipular arrays com o método push</li>
-      <li value="manipular-arrays-metodo-pop"> Manipular arrays com o método pop</li>
-    Manipular arrays com o método pop
+     <li value="manipular-arrays-metodo-pop"><a href="https://github.com/Dericofredy/freeCodeCamp/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20JavaScript/manipulate-arrays-with-pop.js">Manipular arrays com o método pop</a></li>
     </div>
