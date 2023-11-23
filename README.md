@@ -14,9 +14,9 @@ Este repositório documenta meu progresso nos estudos em JavaScript na plataform
 
 
 
-
+# 
   <div>
-    <h2>JavaScript Basics</h2>
+     <h2>JavaScript Basics</h2>
       <li value="comentar-codigo">Comentar seu código JavaScript</li>
       <li value="declarar-variaveis">Declarar variáveis JavaScript</li>
       <li value="armazenar-valores">Armazenar valores com o operador de atribuição</li>
@@ -70,5 +70,3 @@ Este repositório documenta meu progresso nos estudos em JavaScript na plataform
 # Agradecimentos
 
 Agradeça a FreeCodeCamp e outros recursos que foram essenciais para o seu aprendizado.
-
-Espero que isso ajude a começar o seu README! Personalize conforme necessário para refletir melhor a sua jornada de aprendizado em JavaScript no FreeCodeCamp.
