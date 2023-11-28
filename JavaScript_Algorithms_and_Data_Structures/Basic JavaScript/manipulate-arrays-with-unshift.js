@@ -14,6 +14,9 @@ Adicione ["Paul", 35] ao início da variável myArray usando unshift(). */
 
 // Configuração
 const myArray = [["John", 23], ["dog", 3]];
-myArray.shift();
+myArray.shift(); // removendo a parte ["John", 23]
 
 // Altere apenas o código abaixo desta linha
+myArray.unshift(["Paul",35]) // inserindo a parte ["Paul",35] ao início da array
+
+console.log(myArray);//imprimindo a
