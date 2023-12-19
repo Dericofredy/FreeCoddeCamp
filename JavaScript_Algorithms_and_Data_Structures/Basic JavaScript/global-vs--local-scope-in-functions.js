@@ -11,18 +11,20 @@ function myFun() {
 }
 A função myFun retornará a string Head porque a versão local da variável está presente.
 
-Adicione uma variável local para a função myOutfit para sobrescrever o valor de outerWear com a string sweater.
+Adicione uma variável local para a função myOutfit para sobrescrever o valor de outerWear com a string sweater. */
 
- */
 
 // Configuração
 const outerWear = "T-Shirt";
 
 function myOutfit() {
   // Altere apenas o código abaixo desta linha
-
+const outerWear = "sweater";
   // Altere apenas o código acima desta linha
   return outerWear;
 }
 
-myOutfit();//ainda não solucionei
+myOutfit();
+
+console.log(outerWear);//Imprimindo vvaviável global
+console.log(myOutfit());//Imprimindo vvaviável local de saída da função
