@@ -29,7 +29,6 @@ function addFive (){
 
 // Altere apenas o código acima desta linha
 
-addThree();
-addFive();
 console.log(addThree());
 console.log(addFive());
+console.log(sum);
