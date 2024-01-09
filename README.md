@@ -1,19 +1,6 @@
 # Estudos em JavaScript no FreeCodeCamp
 
-Descrição
-Este repositório documenta meu progresso nos estudos em JavaScript na plataforma do FreeCodeCamp. Aqui, compartilho os projetos concluídos, desafios superados e conceitos aprendidos ao longo do caminho.
-
-# Conteúdo
-  # Projetos:
-
-# Desafios:
-# Conceitos Aprendidos:
-#
-    <div>
-    <div>
-    
-     <h2>JavaScript Basics</h2>
-     <ul>
+<h2>JavaScript Basics</h2>
       <li value="comentar-codigo">Comentar seu código JavaScript</li>
       <li value="declarar-variaveis">Declarar variáveis JavaScript</li>
       <li value="armazenar-valores">Armazenar valores com o operador de atribuição</li>
@@ -60,10 +47,5 @@ Este repositório documenta meu progresso nos estudos em JavaScript na plataform
       <li value="manipular-arrays-metodo-push">Manipular arrays com o método push</li>
      <li value="manipular-arrays-metodo-pop"><a href="https://github.com/Dericofredy/freeCodeCamp/blob/main/JavaScript_Algorithms_and_Data_Structures/Basic%20JavaScript/manipulate-arrays-with-pop.js">Manipular arrays com o método pop</a></li>
      <li value="manipular-arrays-metodo-shift"><a href="https://github.com/Dericofredy/freeCodeCamp/blob/main/JavaScript_Algorithms_and_Data_Structures/Basic%20JavaScript/manipulate-arrays-with-shift.js">Manipular arrays com o método shift</a></li>
-  </ul>
+
  </div>
-  </div>
-
- 
-
-    
