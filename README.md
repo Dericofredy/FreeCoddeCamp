@@ -7,11 +7,9 @@ Este repositório documenta meu progresso nos estudos em JavaScript na plataform
   # Projetos:
 
 # Desafios:
-
-
 # Conceitos Aprendidos:
-
 #
+    <div>
     <div>
     
      <h2>JavaScript Basics</h2>
@@ -64,5 +62,8 @@ Este repositório documenta meu progresso nos estudos em JavaScript na plataform
      <li value="manipular-arrays-metodo-shift"><a href="https://github.com/Dericofredy/freeCodeCamp/blob/main/JavaScript_Algorithms_and_Data_Structures/Basic%20JavaScript/manipulate-arrays-with-shift.js">Manipular arrays com o método shift</a></li>
   </ul>
  </div>
+  </div>
+
+ 
 
     
