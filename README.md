@@ -15,7 +15,7 @@ Este repositório documenta meu progresso nos estudos em JavaScript na plataform
 
 
 # 
-  <div>
+  
      <h2>JavaScript Basics</h2>
       <li value="comentar-codigo">Comentar seu código JavaScript</li>
       <li value="declarar-variaveis">Declarar variáveis JavaScript</li>
@@ -64,4 +64,4 @@ Este repositório documenta meu progresso nos estudos em JavaScript na plataform
      <li value="manipular-arrays-metodo-pop"><a href="https://github.com/Dericofredy/freeCodeCamp/blob/main/JavaScript_Algorithms_and_Data_Structures/Basic%20JavaScript/manipulate-arrays-with-pop.js">Manipular arrays com o método pop</a></li>
      <li value="manipular-arrays-metodo-shift"><a href="https://github.com/Dericofredy/freeCodeCamp/blob/main/JavaScript_Algorithms_and_Data_Structures/Basic%20JavaScript/manipulate-arrays-with-shift.js">Manipular arrays com o método shift</a></li>
 
-    </div>
+    
