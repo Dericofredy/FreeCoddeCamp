@@ -12,7 +12,7 @@ Este repositório documenta meu progresso nos estudos em JavaScript na plataform
 # Conceitos Aprendidos:
 
 #
-    <div class="exercicios">
+    <div>
     
      <h2>JavaScript Basics</h2>
      <ul>
